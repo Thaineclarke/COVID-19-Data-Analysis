@@ -208,7 +208,8 @@ The R Square value was calculated to be 0.773364199, nearly mirroring the Adjust
 
 Statistical significance for both the intercept and slope was assessed through p-values, with the intercept p-value recording at 0.036320039 and the coefficient p-value at an extremely low 3.78767E-74. These p-values indicate that both the intercept and the slope are statistically significant predictors of the total confirmed COVID-19 cases as shown in the visualisation below:
 
-![Linear Regression Analysis: Relationship Between Total Tests and Confirmed Cases]()
+#### Scatterchart Displaying Total Tests and Total Confirmed Cases:
+![Linear Regression Analysis: Relationship Between Total Tests and Confirmed Cases](Pictures/TestsandConfirmedCases.png)
 
 Additional statistical metrics provided in the analysis included the standard error of the regression, reported as 3,614,459.847, which provides a measure of the accuracy of predictions. The regression degree of freedom (DF) was 1, resounding the model's simplicity with only one predictor. The Sum of Squares due to Regression (SSR) was 9.98597E+15, with a Mean Square due to Regression (MSR) of the same value, reflecting the variability explained by the regression model. The F-statistic value was 764.3698841 with a Regression Significance F value of 3.78767E-74, attesting to the overall statistical significance of the regression model.
 
@@ -224,9 +225,11 @@ A multiple R, or the correlation coefficient, of 0.420253161, suggests a moderat
 
 The regression analysis yields a line of best fit with a y-intercept (total tests Y Intercept) at 1,505,237.77 and a gradient (Line Gradient) of 0.022898253. This gradient implies that for every unit increase in population, there is an average increase of 0.022898253 units in the total confirmed COVID-19 cases, assuming all other factors remain constant as shown in the two visualisations below:
 
-![Linear Regression Analysis: Relationship Between Population and Confirmed Cases]()
+#### Scatterchart Displaying Population and Total Confirmed Cases:
+![Linear Regression Analysis: Relationship Between Population and Confirmed Cases](Pictures/PopulationandConfirmedCasesWide.png)
 
-![Linear Regression Analysis: Relationship Between Population and Confirmed Cases]()
+#### Zoomed in Scatterchart Displaying Population and Total Confirmed Cases:
+![Linear Regression Analysis: Relationship Between Population and Confirmed Cases](Pictures/PopulationandConfirmedCasesZoomed.png)
 
 Moreover, the intercept and coefficient p-values (4.38474E-11 and 0.016388413, respectively) are significant indicators. The intercept p-value suggests that the model is statistically significant at predicting COVID-19 cases when the population is zero, despite this scenario not being practically feasible. The coefficient p-value denotes the significance of the population's effect on the total confirmed cases, affirming that the population does play a statistically significant role, albeit small, in influencing the COVID-19 case count.
 
