@@ -75,12 +75,16 @@ The summary below was also obtained using the Descriptive Statistics functionali
 
 The distribution of cases, deaths and recoveries across each continent was also part of the exploratory data analysis that was conducted as displayed in the visualisations below:
 
-[Total Confirmed Cases Across Continents]
-
+#### Total Confirmed Cases Across Continents
 ![Total Confirmed Cases](Pictures/TotalConfirmedCases.png)
-[Total recovered Cases Across Continents]
 
-[Total Deaths Across Continents]
+
+#### Total Recovered Cases Across Continents
+![Total Recovered Cases](Pictures/TotalConfirmedCases.png)
+
+
+#### Total Deaths Across Continents
+![Total Deaths Cases](Pictures/TotalDeaths.png)
 
 These graphs are indicative of the distribution of confirmed COVID-19 cases, fatalities, and recoveries across different regions of the world. The data reveals that Europe has been hit the hardest by the pandemic, with the highest number of confirmed cases, deaths, and recoveries. This trend can be attributed to factors such as high population density, extensive travel, and ease of transmission. Following Europe are Asia and North America, both of which have also experienced significant outbreaks. South America and Africa, on the other hand, have had relatively fewer cases and fatalities, although it is important to note that the numbers may be influenced by differences in testing capacity and reporting standards.
 
@@ -88,63 +92,64 @@ Overall, the graphs highlight the global impact of COVID-19 and underscore the n
 
 As in the prior segment, the exploratory data analysis continues to employ bar charts for visual representation. In this iteration, the charts serve to break down the Total Confirmed COVID-19 Cases, Total Recovered cases, and Total Deaths by country within the continents previously examined:
 
-Africa:
+#### Africa:
 
-x
+![Total Confirmed Cases](Pictures/TotalConfirmedCasesAfrica.png)
 
-x
+![Total Recovered Cases](Pictures/TotalRecoveredAfrica.png)
 
-x
+![Total Deaths](Pictures/TotalDeathsAfrica.png)
 
-Asia:
+#### Asia:
 
-x
+![Total Confirmed Cases](Pictures/TotalConfirmedCasesAsia.png)
 
-x
+![Total Recovered Cases](Pictures/TotalRecoveredAsia.png)
 
-x
+![Total Deaths](Pictures/TotalDeathsAsia.png)
 
+#### Australia:
+![Total Confirmed Cases](Pictures/TotalCasesAustralia.png)
 
-Australia:
+![Total Recovered Cases](Pictures/TotalRecoveredAustralia.png)
 
-x
-
-x
-
-x
-
-Europe:
-
-x
-
-x
-
-x
-
-North America:
-
-x
-
-x
-
-x
+![Total Deaths](Pictures/TotalDeathsAustralia.png)
 
 
-South America:
+#### Europe:
+![Total Confirmed Cases](Pictures/ConfirmedCasesEurope.png)
 
-x
+![Total Recovered Cases](Pictures/TotalRecoveredAsia.png)
 
-x
+![Total Deaths](Pictures/TotalRecoveredEurope.png)
 
-x
+
+#### North America:
+![Total Confirmed Cases](Pictures/TotalConfirmedCasesNorthAmerica.png)
+
+![Total Recovered Cases](Pictures/TotalRecoveredNorthAmerica.png)
+
+![Total Deaths](Pictures/TotalDeathsNorthAmerica.png)
+
+
+
+#### South America:
+![Total Confirmed Cases](Pictures/TotalconfirmedCasesSouthAmerica.png)
+
+![Total Recovered Cases](Pictures/TotalRecoveredSouthAmerica.png)
+
+![Total Deaths](Pictures/DeathsSouthamerica.png)
+
 
 ### Trends Over Time
 
-The graphs presented show the worldwide cumulative and daily counts of COVID-19 cases, spanning from January 22, 2020, to May 14, 2022, which marks the most recent update of the dataset.
+The graphs presented below show the worldwide cumulative and daily counts of COVID-19 cases, spanning from January 22, 2020, to May 14, 2022, which marks the most recent update of the dataset:
 
-[Daily New COVID-19 Cases]
 
-[Cumulative Total COVID-19 Cases]
+![Daily New COVID-19 Cases](Pictures/DailynewCOVID-19Cases.png)
+
+
+![Cumulative Total COVID-19 Cases](Pictures/CumulativeTotalCOVID-19Deaths.png)
 
 The visualisations provided below display the cumulative and daily totals of COVID-19 cases on a global scale, encapsulated within the same date range as previously illustrated in the preceding two visualisations.
 
