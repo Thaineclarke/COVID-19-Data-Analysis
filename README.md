@@ -75,36 +75,16 @@ The summary below was also obtained using the Descriptive Statistics functionali
 
 The distribution of cases, deaths and recoveries across each continent was also part of the exploratory data analysis that was conducted as displayed in the visualisations below:
 
-Africa
-x
+Africa:
 
-x
-
-x
-
-Asia
 x
 
 x
 
 x
 
+Asia:
 
-Australia
-x
-
-x
-
-x
-
-Europe
-x
-
-x
-
-x
-
-North America
 x
 
 x
@@ -112,7 +92,33 @@ x
 x
 
 
-South America
+Australia:
+
+x
+
+x
+
+x
+
+Europe:
+
+x
+
+x
+
+x
+
+North America:
+
+x
+
+x
+
+x
+
+
+South America:
+
 x
 
 x
