@@ -68,6 +68,9 @@ In the subsequent stage of data cleaning and preparation, a detailed examination
 
 The Summary Dataset was analysed using the Descriptive Statistics function, which provided valuable insights. Various statistical measures were calculated and analysed, resulting in a comprehensive summary of the summary dataset as shown below:
 
+![Summary Descriptive Statistics](Pictures/TotalConfirmedCases.png)
+
+![Daily Descriptive Statistics](Pictures/SummaryDescriptiveStatistics.png)
 
 
 The summary below was also obtained using the Descriptive Statistics functionality on the daily dataset:
