@@ -77,6 +77,7 @@ The distribution of cases, deaths and recoveries across each continent was also 
 
 [Total Confirmed Cases Across Continents]
 
+![Total Confirmed Cases](Pictures/TotalConfirmedCases.png)
 [Total recovered Cases Across Continents]
 
 [Total Deaths Across Continents]
