@@ -54,7 +54,7 @@ The daily dataset contains the following fields:
 
 •	Daily New Deaths
 
-The two datasets encompass data from 266 countries, covering a period from January 22, 2020, to May 14, 2022, which spans 844 days or 2 years, 3 months, and 23 days.
+The two datasets encompass data from 266 countries/territories/dependencies/regions/constituencies, covering a period from January 22, 2020, to May 14, 2022, which spans 844 days or 2 years, 3 months, and 23 days.
 
 The primary instrument employed for conducting this analysis was Microsoft Excel, along with its Data Analysis ToolPak. Microsoft Excel served as the foundational platform for organising, filtering, and analysing the data, while the Data Analysis ToolPak extension provided advanced statistical functions and analytical capabilities, enabling a more comprehensive exploration of the datasets. This combination of tools facilitated a robust and detailed data assessment, allowing for the efficient execution of various analytical tasks such as regression analysis, hypothesis testing, and data visualisation.
 
@@ -215,7 +215,7 @@ Additional statistical metrics provided in the analysis included the standard er
 
 In conclusion, the linear regression analysis demonstrated a strong and statistically significant relationship between the total tests administered and the total confirmed cases of COVID-19 across 226 countries. The findings support the hypothesis that an increase in the number of tests administered is associated with an increase in the number of confirmed COVID-19 cases, revealing the critical role of widespread testing in the detection and management of the pandemic.
 
-### Relationship Between Total Confirmed Cases and Population
+### Relationship Between Population and Total Confirmed Cases
 
 This analysis investigates the relationship between the population of a country (X) and its total confirmed COVID-19 cases (Y) using a linear regression model. The dataset encompasses 226 observations corresponding to 226 countries, providing a unique lens through which to analyse this global health crisis.
 
