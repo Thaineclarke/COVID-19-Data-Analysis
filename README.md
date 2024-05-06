@@ -172,7 +172,9 @@ This concluding visualisation illustrates the trajectory of active COVID-19 case
 
 ### Cases, Deaths and Recovery Rates by Country and Continent
 
-This analysis presents a comparison of COVID-19 metrics across various continents, examining Case Fatality Rate (CFR), Recovery Rate, Test Positivity Rate, Incidence Rate, and Testing Rate. Africa exhibits a CFR of 2.11% and a Recovery Rate of 84.18%, with a relatively high Test Positivity Rate of 11.79%, suggesting a higher proportion of positive cases among those tested. The continent's Incidence Rate and Testing Rate stand at 0.86% and 7.29%, respectively, indicating lower testing coverage compared to other regions.
+This analysis presents a comparison of COVID-19 metrics across various continents, examining Case Fatality Rate (CFR), Recovery Rate, Test Positivity Rate, Incidence Rate, and Testing Rate. 
+
+Africa exhibits a CFR of 2.11% and a Recovery Rate of 84.18%, with a relatively high Test Positivity Rate of 11.79%, suggesting a higher proportion of positive cases among those tested. The continent's Incidence Rate and Testing Rate stand at 0.86% and 7.29%, respectively, indicating lower testing coverage compared to other regions.
 
 Asia shows a lower CFR of 0.95% and a similar Recovery Rate to Africa at 84.10%. Its Test Positivity Rate of 7.08% and a significantly higher Testing Rate of 45.32% reflect broader testing efforts. The Incidence Rate in Asia is 3.21%, marking a moderate level of new case detection.
 
