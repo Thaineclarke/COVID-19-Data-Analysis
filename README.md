@@ -54,7 +54,7 @@ The daily dataset contains the following fields:
 
 •	Daily New Deaths
 
-The two datasets encompass data from 266 countries/territories/dependencies/regions/constituencies, covering a period from January 22, 2020, to May 14, 2022, which spans 844 days or 2 years, 3 months, and 23 days.
+The two datasets encompass data from 226 countries/territories/dependencies/regions/constituencies, covering a period from January 22, 2020, to May 14, 2022, which spans 844 days or 2 years, 3 months, and 23 days.
 
 The primary instrument employed for conducting this analysis was Microsoft Excel, along with its Data Analysis ToolPak. Microsoft Excel served as the foundational platform for organising, filtering, and analysing the data, while the Data Analysis ToolPak extension provided advanced statistical functions and analytical capabilities, enabling a more comprehensive exploration of the datasets. This combination of tools facilitated a robust and detailed data assessment, allowing for the efficient execution of various analytical tasks such as regression analysis, hypothesis testing, and data visualisation.
 
