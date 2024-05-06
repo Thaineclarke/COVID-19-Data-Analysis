@@ -10,7 +10,9 @@ Demographic factors will also be considered, specifically whether population siz
 
 The comprehensive goal of this research is to chart the landscape of the COVID-19 pandemic and derive actionable insights that can inform policymaking and enhance the response to current and future public health crises.
 
-This analysis utilised two datasets: the World Meter Coronavirus Daily Data and the World Meter Coronavirus Summary Data, which will be referred to as the Daily dataset and the Summary dataset, respectively. Both datasets were obtained from Kaggle. To access the original datasets, please follow this link: https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset.
+This analysis utilised two datasets: the World Meter Coronavirus Daily Data and the World Meter Coronavirus Summary Data, which will be referred to as the Daily dataset and the Summary dataset, respectively. Both datasets were obtained from Kaggle. 
+
+To access the original datasets, please follow this link: https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset.
 
 The summary dataset includes the following fields:
 
